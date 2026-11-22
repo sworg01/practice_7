@@ -1,4 +1,4 @@
-# practice_6
+# practice_7
 
 # Основи програмування на Java
 
